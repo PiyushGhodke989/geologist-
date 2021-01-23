@@ -1,2 +1,6 @@
-# angryBirdsStage1
-Stage 1 Angry Birds
+# Use basic p5.play-boilerplate
+Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
+
+## Please refer to code notes for explanation.
+
+### Output Link : https://vishnupriya-whitehatjr.github.io/Geologist/index.html
